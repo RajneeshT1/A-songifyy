@@ -1,0 +1,29 @@
+body{
+	background:url("bnm.jpg");
+	background-position:center;
+	
+}
+.welcom{
+text-align:center;
+font-size:30px;
+color:white;
+
+}
+.welcom1{
+	text-align:center;
+	font-size:50px;
+	font-family: 'Indie Flower', cursive;
+	color:white;
+}
+.mood{
+	margin: 0px 40px;
+	font-size:20px;
+	color:white;
+}
+
+li{
+	display:inline;
+	padding: 0px 60px;
+		
+	
+}
